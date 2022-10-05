@@ -1,2 +1,6 @@
 Hello 1000 - 7 = !
+<<<<<<< HEAD
 Aboba 228 Well Really
+=======
+Aboba 228 Well 2sssssss
+>>>>>>> rofl
